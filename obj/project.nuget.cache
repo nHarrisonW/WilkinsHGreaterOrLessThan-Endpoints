@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZN1aEX2DpSmdQH9ivE9uKtWsF0RKpz/XHg0MpQqXTJ6oDFjOt7+7Zt1wZRi+FGccf7Aggz0SsS/al0ze2tKSg==",
+  "success": true,
+  "projectFilePath": "/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHGreaterOrLessThan-Endpoints/WilkinsHGreaterOrLessThan-Endpoints.csproj",
+  "expectedPackageFiles": [
+    "/Users/pookiest0re/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/pookiest0re/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/pookiest0re/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/pookiest0re/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/pookiest0re/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/pookiest0re/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
