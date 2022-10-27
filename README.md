@@ -18,9 +18,9 @@ Once your API is ran properly , you should be taken to your web browser with a p
 
 Once this link is presented , copy onto your clipboard using Ctrl(command on Mac) + C , then paste it into your Postman desktop app using Ctrl(command on Mac) + V , the bar to enter this URL should be at the top of your Postman desktop app when you are in your workspace , make sure the blue box on the left of the search bar has the word "GET" in it , if it does not you should click the box and select "GET"
 
-After you paste the URL you must follow it with a route or the controller will not work , these routes include "/GreaterOrLess" & "/evaluate" as well as well as two numbers of your choice , below i will show you how to use these routes, follow close , they are case sensitive! I will be using the URL "https://localhost:1234" as my "mock" URL
+After you paste the URL you must follow it with a route or the controller will not work , these routes include "/GreaterOrLess" & "/evaluate" as well as two numbers of your choice , below i will show you how to use these routes, follow close , they are case sensitive! I will be using the URL "https://localhost:1234" as my "mock" URL
 
-In order to reach a response from the program , type "/GeaterOrLess/evaluate/1/2" directly behind your URL and press "ENTER" on your keyboard or "SEND" on your Postman Desktop App , it should look something like this : https://localhost:1234/GeaterOrLess/evaluate/1/2
+In order to reach a response from the program , type "/GreaterOrLess/evaluate/1/2" directly behind your URL and press "ENTER" on your keyboard or "SEND" on your Postman Desktop App , it should look something like this : https://localhost:1234/GreaterOrLess/evaluate/1/2
 This would output : 1 is LESS than 2
 
 If your URL doesn't look like one of these options , check to make sure your routes in the URL match , URL's ARE CASE SENSITIVE!
