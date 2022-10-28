@@ -1,4 +1,7 @@
-
+//N. Harrison Wilkins
+//10-26-2022
+//GREATER THAN OR LESS THAN - ENDPOINTS
+//THIS PROGRAM WILL ALLOW THE USER TO INPUT TWO NUMBRES THROUGH THE URL AND WILL BE EVALUATED AND RETURNED AS WHETHER THEY ARE EQUAL TO EACH OTHER, OR IF THE FIRST NUMBER IS GREATER THAN OR LESS THAN
 
 //Reviewed by Isaiah Ferguson - Code Runs great i liked the use of data validation. everything looks formate! Excellent job. - with love Isaiah Keith Ferguson III
 
